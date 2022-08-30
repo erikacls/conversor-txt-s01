@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Challenge 01 - Oracle Next One | Alura</title>
+        
+        <link rel="stylesheet" href="/css/reset.css">
+        <link rel="stylesheet" href="/css/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Cabeçalho -->
+        <header>
+            <div class="logo">
+                <img src="/assets/images/logo.png" alt="Logo - Decodificador">
+            </div>
+            
+            <div class="caixa">
+                <p>Decodificador de Texto</p>
+            </div>
+        </header>
+        
+        <!-- Corpo -->
+        <main class="principal">
+
+            <section class="box">
+                <textarea type="text" class="input-texto"  required placeholder="Digite seu texto"></textarea>
+                <div class="cont-erros"></div>
+                <div>             
+                    <h6 class="informacao">
+                        <img src="/assets/images/iconmsg.png" alt="Icone da Mensagem">
+                        Permitido apenas letras minúsculas sem acentuação e caracter especial</h6>
+                </div>
+
+                <div class="botoes">
+                    <button id="btnEncriptar">Encriptar</button>
+                    <button id="btnDesencriptar">Desencriptar</button>
+                </div>
+            </section>
+    
+            <section class="box">
+                <textarea type="text" class="resultado" readonly placeholder="Resultado"></textarea>
+                <div class="botoes">
+                    <button id="btnCopiar">Copiar</button>
+                    <button id="btnOuvir">Ouvir</button>
+                </div>
+            </section>
+
+            <!-- Efeito Sonoro Click -->
+            <audio src="/assets/audio/efeito_click.mp3" id="click"></audio>
+            <!-- SweetAlert2 -->
+            <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+        </main>
+
+        <!-- Rodapé -->
+        <footer class="footer">
+            <section>
+                <p class="copyright">Copyright &copy;2022 by LOPES, Érika.</p>
+                <div class="social">
+                    <a href="https://github.com/erikacls" target="_blank"><img src="/assets/images/github.png" alt="icon-github"></a>  
+                </div>
+        </footer>
+
+        <script src="/js/script.js"></script>
+        
+    </body>
+
+</html>
