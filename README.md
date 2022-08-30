@@ -52,7 +52,7 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 ---
 
 <div>
-  <a href="https://erikacls.github.io/conversor-txt-s01/" taget="_blank">Preview!</a>
+  <a href="https://erikacls.github.io/conversor-txt-s01/" target="_blank">Preview!</a>
 </div>
 
 ### Badge Exclusiva do Desafio 🏆
