@@ -37,7 +37,7 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 
 - Manipulação do DOM com o objetivo de capturar textos para decodificação;
 - Eventos como onclick que disparam funções para efeitos sonoros, encriptar, desencriptar, copiar e ouvir (API).   
-- Na logica implementação de arrays para percorrer strings, com estruturas condicionais e repetição.
+- Implementação de arrays para percorrer strings com estrutura condicional e de repetição.
 
 ### Tecnologias:
 ---
@@ -50,6 +50,7 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 
 ### Deploy:
 ---
+
 <div>
   <a href="https://erikacls.github.io/conversor-txt-s01/" taget="_blank">Preview!</a>
 </div>
