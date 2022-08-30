@@ -56,9 +56,10 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 </div>
 
 ### Badge Exclusiva do Desafio 🏆
+---
 
 <p align="center" >
-     <img width="600" heigth="600" src="#">
+     <img alt="Badge Oracle Next Generation" width="400" heigth="400" src="assets/images/Badge_ONE_400x400_V3.png">
 </p>
 
 
