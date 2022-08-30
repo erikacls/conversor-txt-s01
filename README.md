@@ -1,18 +1,17 @@
-# Challenge Oracle Next Generation: Decodificador de Texto
+## Challenge Oracle Next Generation: Decodificador de Texto
 
 Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias para decodificar strings.
 
-## Grau:
+### Grau I
 ---
-- I - Iniciante
 
 <p align="center" >
-     <img width="600" heigth="600" src="">
+     <img alt="Sprint 01 - Decodificador de Texto" width="600" heigth="450" src="assets/images/sprint01.jpeg">
 </p>
 
 #### Página do Challenge [Sprint 01: Construa um decodificador de texto com Javascript!](https://www.alura.com.br/challenges/oracle-one/sprint01-construa-decodificador-texto-com-javascript) 📃
 
-## Funcionalidades:
+### Funcionalidades:
 ---
 
 1. Encriptar
@@ -20,16 +19,16 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 3. Copiar
 4. Ouvir
 
-## Chaves:
+### Chaves:
 ---
 
-`A letra "e" é convertida para "enter"`
-`A letra "i" é convertida para "imes"`
-`A letra "a" é convertida para "ai"`
-`A letra "o" é convertida para "ober"`
-`A letra "u" é convertida para "ufat"`
+`A letra "e" é convertida para "enter"` <br /> 
+`A letra "i" é convertida para "imes"` <br /> 
+`A letra "a" é convertida para "ai"` <br /> 
+`A letra "o" é convertida para "ober"` <br /> 
+`A letra "u" é convertida para "ufat"` <br /> 
 
-## Metodologia:
+### Metodologia:
 ---
 
 1. Estrutura: HTML
@@ -40,7 +39,7 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
 - Eventos como onclick que disparam funções para efeitos sonoros, encriptar, desencriptar, copiar e ouvir (API).   
 - Na logica implementação de arrays para percorrer strings, com estruturas condicionais e repetição.
 
-## Tecnologias:
+### Tecnologias:
 ---
 
 <div style="display: inline_block"><br>
@@ -49,14 +48,13 @@ Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias p
   <img align="center" alt="icone-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div><br><br>
 
-## Deploy:
+### Deploy:
 ---
-
 <div>
-  <a href="https://erikacls.github.io/decoder/" taget="_blank">Preview!</a>
+  <a href="https://github.com/erikacls/conversor-txt-s01" taget="_blank">Preview!</a>
 </div>
 
-## Badge Exclusiva do Desafio 🏆
+### Badge Exclusiva do Desafio 🏆
 
 <p align="center" >
      <img width="600" heigth="600" src="#">
