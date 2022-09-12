@@ -1,4 +1,4 @@
-## Challenge Oracle Next Generation: Decodificador de Texto
+## Challenge: Decodificador de Texto
 
 Projeto base do Decodificador de Textos, uma aplicação conversora de cadeias para decodificar strings.
 
